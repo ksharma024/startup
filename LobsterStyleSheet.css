@@ -1,0 +1,35 @@
+﻿body {
+    background-color: cornflowerblue;
+}
+.jumbotron {
+    
+    background-image: url('Images/lobster4.jpg');
+    background-size: auto;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+.container .row .col-sm-4 feature{
+    width: 100%;
+}
+.feature{
+    text-align: center;
+}
+.feature .glyphicon{
+    font-size: 350%;
+}
+.feature .glyphicon-hourglass{
+    color: #3c3636;
+}
+.feature .glyphicon-apple{
+    color: green;
+}
+.feature .glyphicon-heart{
+    color: darkred;
+}
+.feature .glyphicon-ok{
+    color: #090f4a
+}
+.nav-tabs{
+    float: left;
+}
